@@ -1,9 +1,2 @@
-<!--
- __  __                                         _
-|  \/  |        _                    _         | |
-| \  / | __ _ _| |___  __ __   _   _| |  __    | |
-| |\/| |/ _` |_   __// __ \ \ | |/ _  |/ __ \  | |
-| |  | | (_| | | |__| |__| | \| | |_| | |__| | |_|
-|_|  |_|\__,_|  \___|\ __ /_|\__|\__,_|\ __ /  (_)
-
--->
+console.log('Test')
+console.log('%cCareful this is a browser feature designed for developers !', 'background: #0098E8; color: white; display: block;');
